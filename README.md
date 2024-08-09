@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetaswinnair&show_icons=true&locale=en" alt="meetaswinnair" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetaswinnair&" alt="meetaswinnair" /></p>
+
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/meetaswinnair/meetaswinnair/output/github-contribution-grid-snake.svg" />
